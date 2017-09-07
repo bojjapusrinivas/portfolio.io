@@ -1,0 +1,28 @@
+<div Class="logo"><!---logo start --->
+        
+        <a href="Default.asp"><img src="Images/logo03.jpg" width="275px" height="73px" border="0px" title="EZ-Campus" /></a>
+        
+        </div><!---logo ends ---->
+        
+        <div class="share-pan"><!----share-pan start ---->
+        
+        	<a href="#" class="social-media"><img src="Images/linkedin-icon.jpg" width="35px" height="33px" border="0px" title="linked-in"/></a>
+            <a href="#" class="social-media"><img src="Images/facebook-icon.jpg" width="35px" height="33px" border="0px" title="facebook"/></a>
+            <a href="#" class="social-media"><img src="Images/twitter-icon.jpg" width="35px" height="33px" border="0px" title="twitter"/></a>
+                
+</div><!----share-pan ends------>
+        
+        <div id="main-menu"><!---main-menu starts----->
+        
+        <ul>
+        <li><a href="Default.asp" >Home</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a><a href="WhatDoWeDo.asp" >What We do</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a><a href="HowItWorks.asp" >How it Works</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a> 
+        <a href="IsThisRight.asp" >Is This Right for you?</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a>  <a href="GetStarted.asp" >Get Started!</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a>
+	<a href="faqs.asp" >FAQs</a><a href="#"><img src="images/line.jpg" width="1px" height="25px" border="0px"/></a>
+	<a href="Frm_ez-CampusApp.asp" >Contact</a>
+	</li>
+                
+        </ul>
+               
+      </div><!---main-menu ends---->
+        
+      

@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*=================
+	TRANSISTION
+=================*/
+.product_ara:hover .product_img span, .product_img span, .product_ara:hover, .product_ara, .product_ara:hover .product_content h3 a, .product_content:hover h3 a, .product-title, .deal_img_pan span, .deal_img_pan:hover span, .deal_content .product_content .cus_buy_btn, .deal_content .product_content .cus_buy_btn:hover, .cust_ser_btn:hover, .cus_search_ara, .custom_nav li a:hover, .custom_nav li a,
+.side_nav_sub ul li a:hover, .side_nav_sub ul li,.side_nav_sub ul li a,.side_nav li:hover .side_nav_sub, .side_nav li .side_nav_sub,
+.sub_drop,.header_bottom_list li.user:hover .sub_drop, .cart_to_link span i,.cart_to_link span i:hover, .shop_aside_block ul,.shop_aside_block ul li:hover, .shop_aside_block .size_list li:hover, .shop_aside_block .size_list li
+
+ {
+	transition: all linear 0.2s;
+	-webkit-transition: all linear 0.2s;
+	-moz-transition: all linear 0.2s;
+}
+/*=================
+		BORDERS
+=================*/
+.border_null {
+	border: none !important;
+}
+.border_full {
+	border: rgba(0,0,0,0.2) solid 1px;
+}
+.border-left {
+	border-left: rgba(0,0,0,0.2) solid 1px;
+}
+.border-bottom {
+	border-bottom: rgba(0,0,0,0.2) solid 1px;
+}
+.border-right {
+	border-right: rgba(0,0,0,0.2) solid 1px;
+}
+.border-top {
+	border-top: rgba(0,0,0,0.2) solid 1px;
+}
+/*=====================================
+		null_margin & null_padding
+=======================================*/
+
+.null_margin {
+	margin: 0px !important;
+}
+.null_padding {
+	padding: 0px !important;
+}
+/*=====================================
+		background colors & font-color
+=======================================*/
+
+.bg_white {
+	background: #fff;
+}
+
+.bg_gray{
+	background:#F2F2F2;		
+}
+
+.green_color {
+	color: #6E9E0E !important;
+}
+.gray_col {
+	color: #999!important;
+}
+/*========== PAGE SNIPPETS=============
+======================================*/
+.p_title {
+	font-size: 24px
+}
+.p_cost {
+	font-size: 16px;
+	color: #690;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+.special-price {
+	font-size: 19px;
+	color: red;
+}
+.oldprice {
+	color: #CCC;
+	text-decoration: line-through;
+	font-weight: 200;
+	font-size: 13px
+}
+.buynow {
+	color: #000;
+	font-size: 15px;
+	font-weight: bold;
+	clear: both;
+	display: block;
+	position: relative;
+	cursor: pointer;
+}
+.buynow i {
+	font-size: 9px;
+	color: #fff;
+	background: #CC0000;
+	padding: 2px;
+	border-radius: 100%;
+	font-weight: 100;
+	cursor: pointer;
+}
+.salelable {
+	width: 29px;
+	height: 28px;
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	background: #CC3300;
+	padding: 5px 23px;
+	border-radius: 7px !important;
+	font-style: normal;
+	z-index: 10;
+}

@@ -1,0 +1,21 @@
+<footer id="footer">
+	<div class="footer-copyright">
+		<div class="container">
+			<div class="row">
+			  <div class="col-md-1"> <a href="index.html" class="logo"> <img alt="Porto Website Template" class="img-responsive" src="img/acc/logo-footer.png"> </a> </div>
+			  <div class="col-md-7">
+				<p>The India Community Center is a 501(c)(3) non-profit organization (tax id #52-2351119)</p>
+			  </div>
+				<div class="col-md-4">
+					<nav id="sub-menu">
+						<ul>
+							<!--<li><a href="page-faq.html">FAQ's</a></li>--->
+							<li><a href="https://maps.yahoo.com/place/?lat=37.43183089652625&lon=-121.89531818032265&bb=37.43840661423267%2C-121.90482258796692%2C37.425252471039094%2C-121.88583254814148&addr=525%20Los%20Coches%20St%2C%20Milpitas%2C%20CA%2095035-5423">Sitemap</a></li>
+							<li><a href="contact-us.html">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+		  </div>
+		</div>
+	</div>
+</footer>
